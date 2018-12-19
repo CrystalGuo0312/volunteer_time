@@ -18,4 +18,4 @@ This README would normally document whatever steps are necessary to get your app
 · Team email: xguo0887@uni.sydney.edu.au
 
 ## List of authors ##
-· YIZHANG CHEN · SHENGTIAN ZHANG · Yang Fu · Xuefang Guo · HONGYANG NONG
+· YIZHANG CHEN · SHENGTIAN ZHANG · XUEFANG GUO · HONGYANG NONG
