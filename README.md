@@ -15,7 +15,7 @@ This README would normally document whatever steps are necessary to get your app
 · Java 1.6 · Tomcat 8.0 · MySQL
 
 ## Who do I talk to? ##
-· Team email: yche2959@uni.sydney.edu.au
+· Team email: xguo0887@uni.sydney.edu.au
 
 ## List of authors ##
 · YIZHANG CHEN · SHENGTIAN ZHANG · Yang Fu · Xuefang Guo · HONGYANG NONG
